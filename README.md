@@ -1,3 +1,3 @@
 # repositorioCentralGCS
 Repositório Central
-#Raphael Leite Campos 2023/2 G16030-00200
+#Isadora Oliveira Specht 2024/1 G16030-00200
